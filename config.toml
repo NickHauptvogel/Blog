@@ -1,4 +1,4 @@
-baseURL = 'https://nickhauptvogel.github.io/Blog/'
+baseURL = 'https://www.hauptvogel.dev'
 languageCode = 'en-us'
 title = "Hi, I'm Nick Hauptvogel"
 theme = 'hello-friend-ng'

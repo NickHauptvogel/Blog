@@ -7,6 +7,8 @@ paginate = 10
 # Enable emojis
 enableEmoji=true
 
+data-theme=light
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -23,7 +25,6 @@ enableEmoji=true
   enableSharingButtons = true
   
   enableThemeToggle = true
-  data-theme = light
   
 
   # Metadata mostly used in document's head

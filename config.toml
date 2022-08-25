@@ -22,6 +22,8 @@ enableEmoji=true
   # Enable sharing buttons, if you like
   enableSharingButtons = true
   
+  enableThemeToggle = true
+  
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"

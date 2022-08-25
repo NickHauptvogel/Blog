@@ -14,7 +14,7 @@ enableEmoji=true
   dateformNumTime = "02/01/2006 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "Documenting my life in different aspects"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false

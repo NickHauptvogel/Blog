@@ -11,6 +11,8 @@ tags:
   - copenhagen
 ---
 
+![Hello Copenhagen!](/static/copenhagen_helloworld.jpg)
+
 Hej! Jeg hedder Nick og jeg er 23 år gammel. Jeg er fra Tyskland og skal studere datalogi på Københavns Universitet fra september 2022. 
 Jeg er flyttet til København for et par dage siden, men jeg har lært dansk i et par måneder. Med indlæg som disse vil jeg gerne dokumentere mine fremskridt med at lære sproget.
 

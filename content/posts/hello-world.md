@@ -16,4 +16,4 @@ Jeg er flyttet til København for et par dage siden, men jeg har lært dansk i e
 
 More than that, I want to utilize this blog to keep track of my studies' progress. From time to time, I will compose short articles, either about the Danish language, a particularly interesting topic from my M.Sc. studies or just a random thought that came to my mind while biking to the university. :bike:
 
-Welcome to my blog and stay tuned! :pencil:
+Welcome to my blog and stay tuned! :book:

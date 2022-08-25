@@ -23,6 +23,7 @@ enableEmoji=true
   enableSharingButtons = true
   
   enableThemeToggle = true
+  data-theme = light
   
 
   # Metadata mostly used in document's head

@@ -18,6 +18,9 @@ paginate = 10
 
   # Enable sharing buttons, if you like
   enableSharingButtons = true
+  
+  # Enable emojis
+  enableEmoji = true
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"

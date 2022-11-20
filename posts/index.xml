@@ -1,13 +1,52 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Hi, I'm Nick Hauptvogel</title><link>https://www.hauptvogel.dev/posts/</link><description>Recent content in Posts on Hi, I'm Nick Hauptvogel</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sat, 19 Nov 2022 15:20:11 +0200</lastBuildDate><atom:link href="https://www.hauptvogel.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Copenhagen Student 101 - A guide to studying and surviving as a foreign student in Copenhagen, Denmark</title><link>https://www.hauptvogel.dev/posts/study_survive_in_copenhagen_guide/</link><pubDate>Sat, 19 Nov 2022 15:20:11 +0200</pubDate><guid>https://www.hauptvogel.dev/posts/study_survive_in_copenhagen_guide/</guid><description>Heading 1 asdasd
-Heading 2 sda
-Heading 3 Guide! 📖</description><content type="html"><![CDATA[<p><img src="/static/copenhagen_guide.jpg" alt="A guide to survive in Copenhagen!"></p>
-<h1 id="heading-1">Heading 1</h1>
-<p>asdasd</p>
-<h2 id="heading-2">Heading 2</h2>
-<p>sda</p>
-<h3 id="heading-3">Heading 3</h3>
-<p>Guide!
-📖</p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Hi, I'm Nick Hauptvogel</title><link>https://www.hauptvogel.dev/posts/</link><description>Recent content in Posts on Hi, I'm Nick Hauptvogel</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sat, 19 Nov 2022 15:20:11 +0200</lastBuildDate><atom:link href="https://www.hauptvogel.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Copenhagen Student 101 - A guide to studying and surviving as a foreign student in Copenhagen, Denmark</title><link>https://www.hauptvogel.dev/posts/study_survive_in_copenhagen_guide/</link><pubDate>Sat, 19 Nov 2022 15:20:11 +0200</pubDate><guid>https://www.hauptvogel.dev/posts/study_survive_in_copenhagen_guide/</guid><description>Introduction In August 2022, I moved from my hometown Bremen in Germany to Copenhangen, Denmark, in order to start my Master&amp;rsquo;s Degree studies in Computer Science at the University of Copenhagen. After finishing my B.Sc. Degree in Computer Engineering in 2021, the strive for international experience and an continuation in the academic research environment led me to the decision to perform my Master&amp;rsquo;s degree abroad.
+Early on, I started with the preparation of my stay abroad and gathered information about administrative tasks, but also student life advices.</description><content type="html"><![CDATA[<p><img src="/static/copenhagen_guide.jpg" alt="A guide to survive in Copenhagen!"></p>
+<h2 id="introduction">Introduction</h2>
+<p>In August 2022, I moved from my hometown Bremen in Germany to Copenhangen,
+Denmark, in order to start my Master&rsquo;s Degree studies in Computer Science at
+the University of Copenhagen. After finishing my B.Sc. Degree in Computer
+Engineering in 2021, the strive for international experience and an continuation
+in the academic research environment led me to the decision to perform my
+Master&rsquo;s degree abroad.</p>
+<p>Early on, I started with the preparation of my stay abroad and gathered
+information about administrative tasks, but also student life advices. For
+that, I used several different sources, but soon found the information
+landscape to be quite scarce. In order to facilitate the process of starting
+the study life in Denmark for following students, I have decided to write a
+(hopefully) comprehensive and complete guide to studying and surviving as a
+foreign student in Copenhagen, Denmark.</p>
+<p>Please bear in mind that many of the described processes only apply to EU
+citizens (and some also relate to the University of Copenhagen) and might be
+different for Non-EU students or other universities. Also, processes might
+change in the future, in which case they can deviate from the following
+descriptions. But now enough of the disclaimer, let us start with the guide!</p>
+<h2 id="before-moving-to-denmark">Before Moving to Denmark</h2>
+<h3 id="residence-permit">Residence Permit</h3>
+<p>There are a couple of (mostly administrative) tasks that one can initiate before
+moving to Denmark. First and foremost, the residence permit application process
+can be started before moving to the country. For that, the University of
+Copenhagen sends an invitation containing a link to the application portal.
+After receiving the e-mail and clicking on the link, follow the instructions in
+the application process and fill out the so-called &ldquo;OD1&rdquo; form online.</p>
+<p>In the process, there are different documents that need to be uploaded. The
+Declaration of Self-Support is not required to be signed beforehand, so you can
+just download and upload the same document again. Second, the Declaration of
+study activity is superfluous if you have already received your admission
+letter from the university. In that case, just upload the letter of admission
+instead. Third, the sworn declaration needs to be downloaded, signed (also
+digitally) and then re-uploaded.</p>
+<p>It is possible for the residence permit to apply without an address in Denmark
+yet. In that case, just insert your home address, your Danish address
+will be then requested afterwards.</p>
+<p>At the end of the process, you have to book an appointment at SIRI (Styrelsen
+for International Rekruttering og Integration) to finish the process. For that,
+it is important to book the appointment via the link in the e-mail, <strong>not</strong>
+via the link at the end of the OD1 form fill out! When choosing the link from
+the mail, it is possible to choose a special opening day of the administration
+office only for students, on which you receive the residence permit on the same
+day. After having booked the appointment, note down the booking number. It is
+the number you have to enter at the entrance of the administration office.</p>
+<h2 id="after-moving-to-denmark">After moving to Denmark</h2>
+<h2 id="working--su">Working &amp; SU</h2>
 ]]></content></item><item><title>Hello World</title><link>https://www.hauptvogel.dev/posts/hello-world/</link><pubDate>Wed, 24 Aug 2022 22:20:11 +0200</pubDate><guid>https://www.hauptvogel.dev/posts/hello-world/</guid><description>Hej! Jeg hedder Nick og jeg er 23 år gammel. Jeg er fra Tyskland og skal studere datalogi på Københavns Universitet fra september 2022. Jeg er flyttet til København for et par dage siden, men jeg har lært dansk i et par måneder. Med indlæg som disse vil jeg gerne dokumentere mine fremskridt med at lære sproget.
 More than that, I want to utilize this blog to keep track of my studies&amp;rsquo; progress.</description><content type="html"><![CDATA[<p><img src="/static/copenhagen_helloworld.jpg" alt="Hello Copenhagen!"></p>
 <p>Hej! Jeg hedder Nick og jeg er 23 år gammel. Jeg er fra Tyskland og skal studere datalogi på Københavns Universitet fra september 2022.

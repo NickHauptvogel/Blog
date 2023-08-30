@@ -1,20 +1,18 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Nick Hauptvogel</title><link>https://www.hauptvogel.dev/posts/</link><description>Recent content in Posts on Nick Hauptvogel</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sat, 19 Nov 2022 15:20:11 +0200</lastBuildDate><atom:link href="https://www.hauptvogel.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Copenhagen Student 101 - A guide to studying and surviving as a foreign student in Copenhagen, Denmark</title><link>https://www.hauptvogel.dev/posts/study_survive_in_copenhagen_guide/</link><pubDate>Sat, 19 Nov 2022 15:20:11 +0200</pubDate><guid>https://www.hauptvogel.dev/posts/study_survive_in_copenhagen_guide/</guid><description>Introduction In August 2022, I moved from my hometown Bremen in Germany to Copenhangen, Denmark, in order to start my Master&amp;rsquo;s Degree studies in Computer Science at the University of Copenhagen. After finishing my B.Sc. Degree in Computer Engineering in 2021, the strive for international experience and an continuation in the academic research environment led me to the decision to perform my Master&amp;rsquo;s degree abroad.
-Early on, I started with the preparation of my stay abroad and gathered information about administrative tasks, but also student life advices.</description><content type="html"><![CDATA[<p><img src="/static/copenhagen_guide.jpg" alt="A guide to survive in Copenhagen!"></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Nick Hauptvogel</title><link>https://www.hauptvogel.dev/posts/</link><description>Recent content in Posts on Nick Hauptvogel</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sat, 19 Nov 2022 15:20:11 +0200</lastBuildDate><atom:link href="https://www.hauptvogel.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Copenhagen Student 101 - A guide to studying and surviving as a foreign student in Copenhagen, Denmark</title><link>https://www.hauptvogel.dev/posts/study_survive_in_copenhagen_guide/</link><pubDate>Sat, 19 Nov 2022 15:20:11 +0200</pubDate><guid>https://www.hauptvogel.dev/posts/study_survive_in_copenhagen_guide/</guid><description>Introduction In August 2022, I moved from my hometown Bremen in Germany to Copenhangen, Denmark, in order to start my Master&amp;rsquo;s Degree studies in Computer Science at the University of Copenhagen, after finishing my B.Sc. Degree in Computer Engineering in 2021.
+Early on, I started with the preparation of my stay abroad and gathered information about administrative tasks, but also student life advices. For that, I used several different sources, but soon found the information landscape to be quite scarce.</description><content type="html"><![CDATA[<p><img src="/static/copenhagen_guide.jpg" alt="A guide to survive in Copenhagen!"></p>
 <h2 id="introduction">Introduction</h2>
 <p>In August 2022, I moved from my hometown Bremen in Germany to Copenhangen,
 Denmark, in order to start my Master&rsquo;s Degree studies in Computer Science at
-the University of Copenhagen. After finishing my B.Sc. Degree in Computer
-Engineering in 2021, the strive for international experience and an continuation
-in the academic research environment led me to the decision to perform my
-Master&rsquo;s degree abroad.</p>
+the University of Copenhagen, after finishing my B.Sc. Degree in Computer
+Engineering in 2021.</p>
 <p>Early on, I started with the preparation of my stay abroad and gathered
 information about administrative tasks, but also student life advices. For
 that, I used several different sources, but soon found the information
 landscape to be quite scarce. In order to facilitate the process of starting
 the study life in Denmark for following students, I have decided to write a
-(hopefully) comprehensive and complete guide to studying and surviving as a
+(hopefully) comprehensive guide to studying and surviving as a
 foreign student in Copenhagen, Denmark.</p>
-<p>Please bear in mind that many of the described processes only apply to EU
+<p>Most of the information I provide are complementary explanations or hints for obstacles I stumbled upon during my first weeks in Denmark. Please bear in mind that many of the described processes may only apply to EU
 citizens (and some also relate to the University of Copenhagen) and might be
 different for Non-EU students or other universities. Also, processes might
 change in the future, in which case they can deviate from the following
@@ -59,17 +57,17 @@ here, you can start the application process.</p>
 <p>One of the most difficult tasks, especially when you have not yet arrived in Denmark,
 is to find housing. Many alternatives offer in-person viewings, which is not feasible
 beforehand. And, if you are like me, you do not want to move to a country without
-knowing where to stay the first night!
-<strong>TODO</strong></p>
+knowing where to stay the first night!</p>
+<p>There is no definitive answer on finding the right housing and this topic could fill entire articles on its own. The only thing I want to mention here is my experience: Firstly, there are dorms with a waiting list system, mainly administrated by two vendors: kollegierneskontor.dk (KKIK) and s.dk. You can sign up for accommodations and will receive an offer once you are on top of the wait list, but generally, you never know when this will happen. Not great for a fixed start of studies. Nonetheless, the accommodations are usually cheaper than some other options.</p>
+<p>Another option are dorms without a wait list. The one I found with spots available is The MARK (themark.dk), a lovely dorm with big common areas and a welcoming community a bit outside of the central city (but well connected by train). For more dorm possibilities, it makes most sense to search for lists and collections of current available dorms online.</p>
 <h3 id="find-a-student-job">Find a Student Job</h3>
-<p><strong>TODO</strong></p>
+<p>Similar to the housing matter, a guide to finding a student job could fill articles on its own, which is why I&rsquo;ll focus on my experience. There are multiple portals listing student jobs online (e.g. LinkedIn, Glassdoor, Indeed etc.), on which you can find different available student jobs. Mostly, there are application portals that list all required documentation (e.g. CV, transcripts) etc., make sure to provide everything that is required by the employer. And a tip from me: If a cover letter is optional, just go for it! It&rsquo;ll make a difference.</p>
+<p>After an online application, an interview is often the next step to getting a student job. Make sure to align a potential interview date with your availability in-person, otherwise you could ask for a virtual interview instead. However, again a tip from me: Go for the in-person interview. It is just easier to connect with people that way.</p>
 <h2 id="after-moving-to-denmark">After moving to Denmark</h2>
 <h3 id="residence-permit---in-person-appointment">Residence Permit - In-Person Appointment</h3>
 <p>One of the first things you can do after arriving in Denmark is attending the appointment
-at SIRI, which you booked during the online preparation. The Copenhagen office is located
-in Carl Jacobsens Vej 39, 2500 Valby. Be there in time before your appointment and enter
-your booking confirmation code at the entrance (which is on the main street, not in the
-back courtyard). You need your passport / national ID in original form at the appointment.</p>
+at SIRI, which you booked during the online preparation. Be there in time before your appointment and enter
+your booking confirmation code at the entrance. You need your passport / national ID in original form at the appointment.</p>
 <p>Furthermore, remember to bring the following documents in printed form:</p>
 <ul>
 <li>OD1 Application</li>
@@ -80,39 +78,33 @@ back courtyard). You need your passport / national ID in original form at the ap
 <li>Sworn Declaration of OD1 form</li>
 </ul>
 <p>Even though those documents are stated to be strictly required, in many cases you don&rsquo;t need
-to show them (given that you uploaded the relevant ones beforehand, of course).</p>
+to show them (given that you uploaded them beforehand, of course).</p>
 <h3 id="cpr-civil-registration-number---book-appointment">CPR Civil Registration Number - Book Appointment</h3>
 <p>Approximately two weeks after the CPR online application, you receive an e-mail with the
 request to book an in-person appointment for the CPR number. Choose a date that suits you best.</p>
 <h3 id="cpr-civil-registration-number---in-person-appointment">CPR Civil Registration Number - In-Person Appointment</h3>
-<p>When the day of the CPR appointment has come, you go to the International House in Copenhagen,
-which is located on Nyropsgade 1, 1602 København V. For this, you are asked to bring your
+<p>When the day of the CPR appointment has come, you go to the International House. For this, you are asked to bring your
 housing contract and the residence permit, which you received at SIRI before. After showing
 the documents, you have the chance to request the NemID (which you should absolutely do). Next
 to your CPR number, you then receive a letter for the activation of the NemID. This is not needed
 until the so-called code card arrives via mail approx. a week later.</p>
+<p><strong>Update:</strong> NemID is replaced by a new system called MitID. Many online services now exclusively offer the authentication via MitID. I have no information about the first-time registration for MitID, as I converted my previous NemID to a MitID</p>
 <h3 id="nemid">NemID</h3>
-<p>I have seen many different explanations of the NemID, which all seemt a bit abstract to me, so I
+<p>NB: NemID is now (almost) fully deprecated. The new system is called MitID, but the idea stays the same.</p>
+<p>I have seen many different explanations of the NemID, which all seemed a bit abstract to me, so I
 will try to explain it myself as simple as possible. In order to log in to government or other
 official online services, an authentication is used which is called NemID. It is tightly coupled to
 the CPR number and involves a 2-Factor-Authentification with your phone or a physical code card
 (I would highly recommend the app, though).</p>
-<p>In order to activate NemID, wait for the letter sent to you after the CPR appointment containing
-the code card. When it has arrived, you use the code card and the letter from the CPR appointment
-and follow the instructions. In the process, you set a password, which you can use to log in to
-the NemID app. Now, everytime you need to log on to an official online service, where you can use
-NemID, you enter your CPR number, the password, and confirm the log in in the NemID app.</p>
-<p>NB: NemID is replaced by a new system called MitID. To activate the MitID, simply download the app
-and follow the instructions. Many online services now exclusively offer the authentication via MitID.</p>
 <h3 id="bank-account">Bank Account</h3>
 <p>Before you can open a Danish bank account, an account with a cheap conversion of currencies saves
 you a lot of conversion fees. For that, I use Revolut (so do many other fellow students), which
 makes it easy and cheap to transfer money (e.g. in EUR) and swap it to DKK (with a maximum of
-0.5% fee after a certain money volume).</p>
+0.5% fee after a certain transfer volume).</p>
 <p>If you want to receive government support like SU or Boligstøtte, however, a Danish bank account facilitates the procress immensely. After hearing about long queues and waiting times for banks like
-Danske Bank, the de-facto standard for many students, I tried the Danish online bank Lunar, which lets
+Danske Bank, widely used by many students, I tried the Danish online bank Lunar, which lets
 you open an account online without any waiting time. The approval process needed approximately one week,
-and afterwards you are set to go. The Danish government transfers money to your so-called NemKonto,
+and afterwards you are set to go. The Danish government transfers money (e.g. government support, tax refunds etc.) to your so-called NemKonto,
 which can be seen as the government-known account. You can request your account at Lunar to be your
 NemKonto directly from the app.</p>
 <h3 id="digital-post">Digital Post</h3>
@@ -126,10 +118,22 @@ communicate with different institutions in the Danish administrative. There is a
 <p>NB: You can see mail from authorities on all of the websites. However, certain banks or companies can
 have agreements with only one of those providers, making their mails only visible in the corresponding provider&rsquo;s inbox. One example could be payslips, which could be issued by a company e.g. only in e-Boks. Therefore, it can be beneficial to check all of the providers regularly.</p>
 <h3 id="mobilepay">MobilePay</h3>
+<p>MobilePay is a money transfer app, similar to PayPal, just for Danish citizens. After downloading the app, you can register with your NemID / MitID, a Danish phone number and Danish bank account. Afterwards, you can send and request money to / from your contacts or any Danish number. Sometimes, you can pay in shops (or e.g. the flea market) via MobilePay as well.</p>
 <h3 id="tax-card">Tax Card</h3>
+<p>For the tax card, it can be said that it can be requested online as well. The term &ldquo;tax card&rdquo; can be seen as a synonym for &ldquo;tax registration&rdquo;, meaning that you receive a personal tax number and have access to the central tax administration system at skat.dk.</p>
+<p>When the Danish Tax Agency creates a personal tax number, your employer will receive your tax number automatically. There are two accounts coupled to the tax card, the A card (hovedkort) and B card (bikort). The A card has a certain allowance per tax year, while on the B card, you are fully taxed on all income. If you have two sources of income (e.g. SU and a student job), one of the sources <strong>has</strong> to be directed to the B card, otherwise it can occur that too much allowance is granted, resulting in a back payment of unpaid taxes.</p>
+<p>The recommendation from government is that SU stays on the A card, while your student income is directed on the B card. For that, a notification to your employer is sufficient indicating that you would like to use the B card.</p>
 <h3 id="public-transport">Public Transport</h3>
+<p>The public transport in and around Copenhagen is very extensive and easily usable. The easiest first option is a so-called Anonymous Rejsekort (travel card). You can buy them at Rejsekort retailers, which are often shops/kiosks at train stations. The card is not bound to a person and can be shared with others (even multiple people at the same time). Also, you can save compared to regular tickets when travelling outside rush hours. The card is great to lend to friends who are visiting and don&rsquo;t want to buy single tickets all day. With all Rejsekorts, you can clock in and out on the blue buttons at train stations / in busses. It is <strong>very important</strong> to clock out after a ride, otherwise a fine will be issued.</p>
+<p>Two other options that I want to mention are the Personal Rejsekort and the Ungdomskort. The Personal Rejsekort offers similar services as the anonymous one, but allows to top up online (also automatically when below a certain threshold), see recent trips etc. It is, however, bound to a person and cannot be transferred. Check whether the &ldquo;Young&rdquo; option applies to you as a traveler type to get a discounted price.</p>
+<p>The Ungdomskort (youth card) is like a flat rate for public transport. You can travel without topping up, clocking in and out etc. at a fixed pre-paid rate. For that, you either receive a physical card or a digital one on your phone. Also, you have to be a student (in higher education) to be able to request the Ungdomskort. Contact the university at <a href="mailto:ungdomskort@adm.ku.dk">ungdomskort@adm.ku.dk</a> to confirm that you&rsquo;re enrolled. NB: The Ungdomskort is pre-paid in so-called periods (default is 30 days). If you choose a physical card, you&rsquo;ll receive a new one for each period (meaning each month, which can be annoying). Therefore, make sure to choose longer periods if you want to receive fewer physical cards.</p>
 <h3 id="boligstøtte">Boligstøtte</h3>
+<p>Boligstøtte (Housing support) is what the name suggests. It can be requested per kitchen (so if you have a kitchenette in your dorm, you can still apply) and means a monthly budget issued by the government to help you pay your rent. For me, it is around 12% of my monthly rent.</p>
 <h2 id="working--su">Working &amp; SU</h2>
+<p>The last section shall be dedicated to SU (Statens Uddannelsesstøtte), which is a government-funded support for students. Intended mainly for Danish students, the option for EU students is the so-called &ldquo;equal status&rdquo;, which can be achieved by working for a Danish company. Then, you&rsquo;ll receive the government support alongside your student job income, which really adds up! In 2021, SU amounted to DKK 6.321 per month before taxes (around 850€). The only real condition bound to receiving SU as a worker is to work 10-12 hours per week, continously each week. Especially in the first weeks, make sure to log those hours each week. After some time (10 weeks for me), there are options to request SU holiday, meaning that it is possible to take a week off in which the government does not check the logged hours.</p>
+<p>Speaking of holiday, make sure to get your feriepenge (holiday allowance). Your employer pays a certain amount each month to a separate account, which can be disbursed when going on vacation.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>I hope this guide gave you some insights into the different processes and services when studying in Copenhagen! As said in the beginning, a guide like this would have helped me with a few hints and things to look out for when navigating the administrative landscape.</p>
 ]]></content></item><item><title>Hello World</title><link>https://www.hauptvogel.dev/posts/hello-world/</link><pubDate>Wed, 24 Aug 2022 22:20:11 +0200</pubDate><guid>https://www.hauptvogel.dev/posts/hello-world/</guid><description>Hej! Jeg hedder Nick og jeg er 23 år gammel. Jeg er fra Tyskland og skal studere datalogi på Københavns Universitet fra september 2022. Jeg er flyttet til København for et par dage siden, men jeg har lært dansk i et par måneder. Med indlæg som disse vil jeg gerne dokumentere mine fremskridt med at lære sproget.
 More than that, I want to utilize this blog to keep track of my studies&amp;rsquo; progress.</description><content type="html"><![CDATA[<p><img src="/static/copenhagen_helloworld.jpg" alt="Hello Copenhagen!"></p>
 <p>Hej! Jeg hedder Nick og jeg er 23 år gammel. Jeg er fra Tyskland og skal studere datalogi på Københavns Universitet fra september 2022.

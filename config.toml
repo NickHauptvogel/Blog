@@ -14,7 +14,7 @@ enableEmoji=true
   dateformNumTime = "02/01/2006 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Currently M.Sc. Computer Science student at the University of Copenhagen"
+  homeSubtitle = "M.Sc. Computer Science student at the University of Copenhagen, currently on exchange at the University of Toronto"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false

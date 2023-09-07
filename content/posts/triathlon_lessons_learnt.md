@@ -36,22 +36,33 @@ Starting my journey in January, the first few months of swimming sessions were e
 
 With this experience in mind, I attended my first club training session, which turned out to be different from what I had expected. The combination of clear water and people around me gave me the relaxation I needed to apply the techniques I had learned in open water. While I'm still not 100% confident in open water, especially when I'm alone or in the open ocean, I am grateful for facing this fear and taking the first steps to overcome it.
 
-3. #### Expect to be Medium
+3. #### Expect to be Mediocre
 
 Being a competitive person, I always tend to compare myself to others, especially when it is so easy and objective to compare timed races. However, coming into a new sport, I knew I had to expect to be mediocre at best. Even with my limited running background, people who have trained in all disciplines for years have a significant advantage and will (of course!) perform better. It would be disappointing if that were not the case! Therefore, having realistic expectations is key here. Even though I like to be at the front, I willingly accepted that I would be in the middle of the pack and decided to have fun with it, for example, by trying to keep up with the faster runners and pushing myself even further.
 
 4. #### Discpline and Motivation
 
-Most of the time, training is super fun. But there will be days where you just don't feel like it. When it is the second unit of the day. When it is raining. When it is cold. When you have been out the day before. Or all of it together. I won't preach to always go for a session, regardless how you feel. If you feel strained and had some hard trainings the days before, it might be wise to use this opportunity to rest. But if you are well rested and the only thing holding you back is your mind, then you should actively decide to overcome this mindset and go for it. In 98% of the cases, you will feel better and accomplished afterwards. In the remaining 2%, you can take it easier the next day. The feeling of overcoming your mind is worth it in 100% of the cases.
+Most of the time, training is super fun. But there will be days where you just don't feel like it. When it is the second workout of the day. When it is raining. When it is cold. When you have had a long day the day before. Or all of it together. I won't preach to always go for a session, regardless of how you feel. If you feel strained and have had some hard workouts in the days before, it might be wise to use this opportunity to rest. But if you are well-rested and the only thing holding you back is your mind, then you should actively decide to overcome this mindset and go for it. In 98% of the cases, you will feel better and more accomplished afterwards. In the remaining 2%, you can take it easy the next day. The feeling of overcoming your mind is worth it in 100% of the cases.
 
 5. #### Nutrition is its Own Discipline
 
-Next to the technical abilities in all three disciplines, there is a cross-disciplinary ability that has to be trained as well: Nutrition. General advices tend to be around 60g of carbohydrates per hour, but it varies with body-weight, gender and distance of the race. In shorter races (like sprints), nutrition only plays a minor role, the longer however, the more important it gets. In order to not try fueling with 60g carbs per hour (in a 4 hour race, this amounts to 240g of carbohydrates, i.e. a quarter package of 1kg sugar if you will) first on race day, you need to train your nutrition as well. This is an aspect in which I am not very experienced yet, but I am excited to train and learn more about it, especially for longer distances. Of course, nutritioning around the workouts is at least equally important, but I will not go into detail here, as it could fill another blog post.
+Next to the technical abilities in all three disciplines, there is a cross-disciplinary ability that has to be trained as well: Nutrition. General advice tends to be around 60g of carbohydrates per hour, but it varies with body weight, gender, and the distance of the race. In shorter races (like sprints), nutrition plays only a minor role; the longer the race, however, the more important it becomes. In order to avoid trying to fuel with 60g of carbs per hour (in a 4-hour race, this amounts to 240g of carbohydrates, which is roughly equivalent to a quarter kilogram of sugar) on race day, you need to train your nutrition as well. This is an aspect in which I am not very experienced yet, but I am excited to train and learn more about it, especially for longer distances. Of course, nutrition around the workouts is at least equally important, but I will not go into detail here, as it could fill another blog post.
 
 
 ### Social
 
-- Join a club, community and commitment
-- Motivation from others (and to others)
-- Be thrown in a group of Danish people -> learn Danish, knowing nobody at first
-- Danish culture: Trust and respect (bike lease, bike buying, bike tools etc.)
+1. #### Club Culture
+
+With their own word for it (foreningskultur, i.e., club culture), it is understandable that clubs of various sorts enjoy great popularity in Denmark. Throughout the year, I have met a diverse group of people, many of whom I have become friends with. Sharing sports as a common interest is a strong bond, and triathletes also tend to be highly ambitious and motivating individuals. It is a wonderful feeling to be motivated towards better performance in training and competitions, while also representing a club together.
+
+2. #### Danish Language
+
+After having started my studies in August 2022, I joined the club in an intro course around 4 weeks after moving to Denmark. Obviously, I was not as proficient in Danish to understand what native speakers talked about, and my skills were limited to basic conversations. As almost all members of the club are Danes, I was suddenly surrounded by strangers speaking a mostly unknown language, not an easy situation to start with. However, after introducing myself as a German, they all switched to English (some even to German) to start a conversation with me, even to explain the workouts. As I gained more experience with the language, I slowly started to keep up more, no longer needed separate English instructions, and now use the social time on bike rides or slow runs to improve my Danish-speaking abilities.
+
+3. #### Danish Culture
+
+Lastly, I want to emphasize some core values that I had the pleasure to experience while being in the club: trust and respect. Even though triathlon is an individual sport on race day, training still feels like a team effort. Everyone is respected, regardless of their skill level, and coaches are respectful and extremely supportive. This is something I had not experienced in other sports before, and it is a nice feeling to be part of such a community.
+
+## Future Plans
+
+To conclude my summary, I want to talk briefly about my plans after winter. I am currently on exchange at the University of Toronto and joined the local triathlon club; excited to start training until end of the year (without any competitions). I hope to continue training next spring in Copenhagen and compete in a variety of races again. For now, the plan is to stick to similar distances as this year (and hopefully improve), but you never know what the future holds. I am very grateful to be a part of this community and look forward to the next season!

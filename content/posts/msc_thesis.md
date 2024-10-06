@@ -33,6 +33,6 @@ So, the experiments and their results might be the most tangible in this post. O
 
 An exemplary figure of one of the experiments is shown below. “cSGHMC-ap[7]” is just the abbreviation for this specific Bayesian ensembling method including 7 models. All other lines are variations of traditional ensembles with equal and optimized member influence. It is observable that 3/4 configurations match and eventually outperform the reference in terms of accuracy on this classification task after exceeding a certain ensemble size M.
 
-[Performance with varying ensemble size](/static/ensemble_accs.png)
+![Performance with varying ensemble size](/static/ensemble_accs.png)
 
 Well, that was more or less it. Of course, I left out some details, but I hope that the general idea and motivation of the thesis has become clear. It is often manageable to explain the background and general topic of a thesis, but including results and newly added insights to the academic community requires more depth, which is hopefully still making sense and built upon the brief foundations I gave. In case not - I guess you will just have to ask! And to everyone making it that far: Thank you for showing interest in the stuff I did at university!

@@ -1,6 +1,6 @@
 ---
 title: "My 2nd Season in Triathlon - Shifting the Focus"
-date: 2023-10-06T00:00:00+01:00
+date: 2024-10-06T00:00:00+01:00
 draft: false
 toc: false
 images:
